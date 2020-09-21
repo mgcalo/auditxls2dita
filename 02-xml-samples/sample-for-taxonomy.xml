@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy>
+        <valuedef keys="info_typeSbjKey" elem="audience" att="experiencelevel"/>
+		<valuedef code="info_type1">
+			<topicmeta>
+				<navtitle>instructions overview</navtitle>
+			</topicmeta>   
+		</valuedef>
+		<valuedef code="info_type2">
+			<topicmeta>
+				<navtitle>instructions steps</navtitle>
+			</topicmeta>
+		</valuedef>
+		<valuedef code="info_type3">
+			<topicmeta>
+				<navtitle>properties</navtitle>
+			</topicmeta>
+		</valuedef>
+        <valuedef keys="audience_levelSbjKey" elem="category"/>
+		<valuedef code="audience_level1">
+			<topicmeta>
+				<navtitle>sysadmin</navtitle>
+			</topicmeta>
+		</valuedef>
+		<valuedef code="audience_level2">
+			<topicmeta>
+				<navtitle>user</navtitle>
+			</topicmeta>
+		</valuedef>
+		<valuedef code="audience_level3">
+			<topicmeta>
+				<navtitle>observer</navtitle>
+			</topicmeta>
+		</valuedef>
+</taxonomy>

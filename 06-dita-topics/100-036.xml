@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.3  Task//EN" "task.dtd">
+<task id="ta_100-036" xml:lang="en-GB" translate="yes"><!--Audit sequence: 100-036 ;  Sequence: 036 ; Level: 4-->
+   <title>Enterprise Admin Privileges and Deactivation</title>
+   <shortdesc>-</shortdesc>
+   <prolog>
+      <source>https://help.trello.com/article/1078-enterprise-admin-dashboard</source>
+      <metadata>
+         <audience experiencelevel="sysadmin"/>
+         <category>instructions steps</category>
+         <prodinfo>
+            <prodname/>
+         </prodinfo>
+      </metadata>
+   </prolog>
+   <taskbody/>
+</task>

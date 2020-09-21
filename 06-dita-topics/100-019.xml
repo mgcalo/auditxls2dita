@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3  Reference//EN" "reference.dtd">
+<reference id="re_100-019" xml:lang="en-GB" translate="yes"><!--Audit sequence: 100-019 ;  Sequence: 019 ; Level: 5-->
+   <title>Teams</title>
+   <shortdesc>-</shortdesc>
+   <prolog>
+      <source>https://trello.com/guide/enterprise/enduser</source>
+      <metadata>
+         <audience experiencelevel="user" job="set_up"/>
+         <category>properties</category>
+         <prodinfo>
+            <prodname/>
+            <component>teams</component>
+         </prodinfo>
+         <othermeta name="feature" content="Team Boards"/>
+      </metadata>
+   </prolog>
+   <refbody/>
+</reference>

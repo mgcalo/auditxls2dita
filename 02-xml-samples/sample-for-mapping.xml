@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<topics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<topic sequence="100" type="map" level="0" legacy_url="https://help.trello.com/category/1047-trello-enterprise">
+		<title>Trello Enterprise</title>
+		<shortdesc></shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel/>
+				<job/>
+				<category>pub:user guide</category>
+				<prodinfo>
+					<prodname>Enterprise</prodname>
+				</prodinfo>
+				<feature/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-001" type="concept" level="1" legacy_url="https://help.trello.com/article/1048-enterprise-user-guide">
+		<title>Enterprise User Guide</title>
+		<shortdesc></shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel/>
+				<job/>
+				<category>pub:user guide</category>
+				<prodinfo>
+					<prodname></prodname>
+					<component></component>
+				</prodinfo>
+				<feature/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-002" type="reference" level="2" legacy_url="https://help.trello.com/article/1048-enterprise-user-guide">
+		<title>Features</title>
+		<shortdesc></shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel/>
+				<job/>
+				<category>properties</category>
+				<prodinfo>
+					<prodname></prodname>
+					<component></component>
+				</prodinfo>
+				<feature/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-003" type="reference" level="2" legacy_url="https://help.trello.com/article/1048-enterprise-user-guide">
+		<title>Enterprise Getting Started Guide</title>
+		<shortdesc>Targeted help to get up and running with Trello Enterprise.</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel/>
+				<job>set_up</job>
+				<category>pub:quick guide</category>
+				<prodinfo>
+					<prodname></prodname>
+					<component></component>
+				</prodinfo>
+				<feature/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-004" type="task" level="3" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Jumpstart Your Team On Trello in 5 Easy Steps</title>
+		<shortdesc></shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>pub:quick guide</category>
+				<prodinfo>
+					<prodname></prodname>
+					<component>team settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+</topics>

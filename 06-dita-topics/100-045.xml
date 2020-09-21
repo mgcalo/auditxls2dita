@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.3  Task//EN" "task.dtd">
+<task id="ta_100-045" xml:lang="en-GB" translate="yes"><!--Audit sequence: 100-045 ;  Sequence: 045 ; Level: 3-->
+   <title>Approving an upgrade</title>
+   <shortdesc>-</shortdesc>
+   <prolog>
+      <source>https://help.trello.com/article/1108-upgrading-an-enterprise-team</source>
+      <metadata>
+         <audience experiencelevel="sysadmin"/>
+         <prodinfo>
+            <prodname/>
+         </prodinfo>
+      </metadata>
+   </prolog>
+   <taskbody/>
+</task>

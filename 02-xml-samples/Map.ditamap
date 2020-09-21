@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_100">
+    <title>Trello Enterprise</title>
+    <topicmeta>
+        <shortdesc></shortdesc>
+        <source>https://help.trello.com/category/1047-trello-enterprise</source>
+        <audience experiencelevel="sysadmin user" job=""/>
+        <category>pub:user guide</category>
+        <prodinfo>
+            <prodname>Enterprise</prodname>
+            <platform></platform>
+        </prodinfo>
+        <othermeta name="feature" content=""/>
+    </topicmeta>
+</map>

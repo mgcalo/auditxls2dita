@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Transcript","shortdesc":"<p class=\"shortdesc\">-</p>","href":"300-006.html","attributes": {"data-id":"ta_300-006",},"menu": {"hasChildren":false,},"tocID":"ta_300-006-d61e1818","next":"ta_300-006-d61e1818",}]});

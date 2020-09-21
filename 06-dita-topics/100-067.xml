@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.3  Task//EN" "task.dtd">
+<task id="ta_100-067" xml:lang="en-GB" translate="yes"><!--Audit sequence: 100-067 ;  Sequence: 067 ; Level: 3-->
+   <title>Assigning and revoking Enterprise Administrator permissions</title>
+   <shortdesc>-</shortdesc>
+   <prolog>
+      <source>https://help.trello.com/article/1129-what-is-an-enterprise-admin</source>
+      <metadata>
+         <audience experiencelevel="sysadmin"/>
+         <prodinfo>
+            <prodname/>
+         </prodinfo>
+      </metadata>
+   </prolog>
+   <taskbody/>
+</task>

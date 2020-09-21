@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Map//EN" "map.dtd">
+<map id="allmaps_audit" xml:lang="en-GB" translate="yes">
+	<title>All maps for audit</title>
+	<topicmeta>
+		<shortdesc>All generated maps for audit</shortdesc>
+	</topicmeta>
+
+	<mapref href="100.ditamap" navtitle="Trello Enterprise"/>
+	<mapref href="200.ditamap" navtitle="Trello Business Class"/>
+	<mapref href="300.ditamap" navtitle="Trello"/>
+</map>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.3  Task//EN" "task.dtd">
+<task id="ta_100-012" xml:lang="en-GB" translate="yes"><!--Audit sequence: 100-012 ;  Sequence: 012 ; Level: 5-->
+   <title>Managing Public Boards Within an Enterprise</title>
+   <shortdesc>-</shortdesc>
+   <prolog>
+      <source>https://trello.com/guide/enterprise/sysadmin</source>
+      <metadata>
+         <audience experiencelevel="sysadmin" job="share"/>
+         <category>instructions steps</category>
+         <prodinfo>
+            <prodname/>
+            <component>board settings</component>
+         </prodinfo>
+         <othermeta name="feature" content="Public Board Management"/>
+      </metadata>
+   </prolog>
+   <taskbody/>
+</task>

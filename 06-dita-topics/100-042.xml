@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3  Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="tr_100-042" xml:lang="en-GB" translate="yes"><!--Audit sequence: 100-042 ;  Sequence: 042 ; Level: 3-->
+   <title>I no longer work for the company claiming my account. What should I do?</title>
+   <shortdesc>-</shortdesc>
+   <prolog>
+      <source>https://help.trello.com/article/1130-managed-enterprise-accounts</source>
+      <metadata>
+         <audience experiencelevel="sysadmin user"/>
+         <category>diagnosis and repair</category>
+         <prodinfo>
+            <prodname/>
+         </prodinfo>
+      </metadata>
+   </prolog>
+   <troublebody/>
+</troubleshooting>

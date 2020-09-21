@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.3  Task//EN" "task.dtd">
+<task id="ta_100-015" xml:lang="en-GB" translate="yes"><!--Audit sequence: 100-015 ;  Sequence: 015 ; Level: 4-->
+   <title>Join Your Enterprise Team!</title>
+   <shortdesc>-</shortdesc>
+   <prolog>
+      <source>https://trello.com/guide/enterprise/enduser</source>
+      <metadata>
+         <audience experiencelevel="user" job="set_up"/>
+         <category>instructions overview</category>
+         <prodinfo>
+            <prodname/>
+            <component>user settings</component>
+         </prodinfo>
+         <othermeta name="feature" content="Team Boards"/>
+      </metadata>
+   </prolog>
+   <taskbody/>
+</task>

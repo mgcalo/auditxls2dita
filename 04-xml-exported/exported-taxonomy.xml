@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taxonomy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<valuedef keys="info_type" elem="category" code="infotype1">
+		<topicmeta>
+			<navtitle>instructions overview</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype2">
+		<topicmeta>
+			<navtitle>instructions steps</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype3">
+		<topicmeta>
+			<navtitle>properties</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype4">
+		<topicmeta>
+			<navtitle>examples</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype5">
+		<topicmeta>
+			<navtitle>general info</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype6">
+		<topicmeta>
+			<navtitle>tips</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype7">
+		<topicmeta>
+			<navtitle>description</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype8">
+		<topicmeta>
+			<navtitle>description overview</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype9">
+		<topicmeta>
+			<navtitle>diagnosis and repair</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype10">
+		<topicmeta>
+			<navtitle>pub: article</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype11">
+		<topicmeta>
+			<navtitle>pub: developer documentation</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype12">
+		<topicmeta>
+			<navtitle>pub: quick guide</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype13">
+		<topicmeta>
+			<navtitle>pub: tutorial</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype14">
+		<topicmeta>
+			<navtitle>pub: user guide</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype15">
+		<topicmeta>
+			<navtitle>pub: video demo</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype16">
+		<topicmeta>
+			<navtitle>pub: webinar</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="info_type" elem="category" code="infotype17">
+		<topicmeta>
+			<navtitle>security</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="audience_level" elem="audience" att="experiencelevel" code="audience_level1">
+		<topicmeta>
+			<navtitle>sysadmin</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="audience_level" elem="audience" att="experiencelevel" code="audience_level2">
+		<topicmeta>
+			<navtitle>user</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="audience_level" elem="audience" att="experiencelevel" code="audience_level3">
+		<topicmeta>
+			<navtitle>observer</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="audience_level" elem="audience" att="experiencelevel" code="audience_level4">
+		<topicmeta>
+			<navtitle>guest</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="audience_level" elem="audience" att="experiencelevel" code="audience_level5">
+		<topicmeta>
+			<navtitle>support</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="audience_level" elem="audience" att="experiencelevel" code="audience_level6">
+		<topicmeta>
+			<navtitle>developer</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component1">
+		<topicmeta>
+			<navtitle>teams</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component2">
+		<topicmeta>
+			<navtitle>user accounts</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component3">
+		<topicmeta>
+			<navtitle>user settings</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component4">
+		<topicmeta>
+			<navtitle>board collections</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component5">
+		<topicmeta>
+			<navtitle>team settings</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component6">
+		<topicmeta>
+			<navtitle>boards</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component7">
+		<topicmeta>
+			<navtitle>board templates</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component8">
+		<topicmeta>
+			<navtitle>board members</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component9">
+		<topicmeta>
+			<navtitle>team calendars</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component10">
+		<topicmeta>
+			<navtitle>board lists</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component11">
+		<topicmeta>
+			<navtitle>board settings</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component12">
+		<topicmeta>
+			<navtitle>cards</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component13">
+		<topicmeta>
+			<navtitle>card title</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component14">
+		<topicmeta>
+			<navtitle>card description</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component15">
+		<topicmeta>
+			<navtitle>card checklists</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component16">
+		<topicmeta>
+			<navtitle>card dates</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component17">
+		<topicmeta>
+			<navtitle>card labels</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component18">
+		<topicmeta>
+			<navtitle>card votes</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component19">
+		<topicmeta>
+			<navtitle>card attachments</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component20">
+		<topicmeta>
+			<navtitle>card comments</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component21">
+		<topicmeta>
+			<navtitle>card cover</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="component" elem="component" code="component22">
+		<topicmeta>
+			<navtitle>member mentions</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job1">
+		<topicmeta>
+			<navtitle>add</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job2">
+		<topicmeta>
+			<navtitle>archive</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job3">
+		<topicmeta>
+			<navtitle>close</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job4">
+		<topicmeta>
+			<navtitle>complete</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job5">
+		<topicmeta>
+			<navtitle>copy</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job6">
+		<topicmeta>
+			<navtitle>create</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job7">
+		<topicmeta>
+			<navtitle>delete</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job8">
+		<topicmeta>
+			<navtitle>download</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job9">
+		<topicmeta>
+			<navtitle>export</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job10">
+		<topicmeta>
+			<navtitle>filter</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job11">
+		<topicmeta>
+			<navtitle>hide</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job12">
+		<topicmeta>
+			<navtitle>label</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job13">
+		<topicmeta>
+			<navtitle>mention</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job14">
+		<topicmeta>
+			<navtitle>move</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job15">
+		<topicmeta>
+			<navtitle>notify</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job16">
+		<topicmeta>
+			<navtitle>print</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job17">
+		<topicmeta>
+			<navtitle>search</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job18">
+		<topicmeta>
+			<navtitle>set_up</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job19">
+		<topicmeta>
+			<navtitle>share</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job20">
+		<topicmeta>
+			<navtitle>subscribe</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="operation" elem="audience" att="job" code="job21">
+		<topicmeta>
+			<navtitle>vote</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature1">
+		<topicmeta>
+			<navtitle>Personal Boards</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature2">
+		<topicmeta>
+			<navtitle>Cards</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature3">
+		<topicmeta>
+			<navtitle>Lists</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature4">
+		<topicmeta>
+			<navtitle>File Attachments</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature5">
+		<topicmeta>
+			<navtitle>Priority Support</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature6">
+		<topicmeta>
+			<navtitle>Observers</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature7">
+		<topicmeta>
+			<navtitle>Custom Backgrounds and Stickers</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature8">
+		<topicmeta>
+			<navtitle>Team Boards</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature9">
+		<topicmeta>
+			<navtitle>Board Collections</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature10">
+		<topicmeta>
+			<navtitle>Team Board Templates</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature11">
+		<topicmeta>
+			<navtitle>Power-Ups</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature12">
+		<topicmeta>
+			<navtitle>PwUp: Custom Fields</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature13">
+		<topicmeta>
+			<navtitle>PwUp: List Limits</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature14">
+		<topicmeta>
+			<navtitle>PwUp: Card Repeater</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature15">
+		<topicmeta>
+			<navtitle>PwUp: Calendar View</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature16">
+		<topicmeta>
+			<navtitle>PwUp: Map View</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature17">
+		<topicmeta>
+			<navtitle>PwUp: Voting</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature18">
+		<topicmeta>
+			<navtitle>PwUp: Other Apps</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature19">
+		<topicmeta>
+			<navtitle>Butler Workflow Automation</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature20">
+		<topicmeta>
+			<navtitle>Buttons and Rules</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature21">
+		<topicmeta>
+			<navtitle>Command Runs</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature22">
+		<topicmeta>
+			<navtitle>Scheduled Commands</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature23">
+		<topicmeta>
+			<navtitle>Command Administration</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature24">
+		<topicmeta>
+			<navtitle>Email Notifications</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature25">
+		<topicmeta>
+			<navtitle>HTTP Requests</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature26">
+		<topicmeta>
+			<navtitle>2-Factor Authentication</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature27">
+		<topicmeta>
+			<navtitle>Advanced Admin Permissions</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature28">
+		<topicmeta>
+			<navtitle>Domain-Restricted Invites</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature29">
+		<topicmeta>
+			<navtitle>Deactivate Members</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature30">
+		<topicmeta>
+			<navtitle>Google Apps Sign-on</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature31">
+		<topicmeta>
+			<navtitle>Simple Data Export</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature32">
+		<topicmeta>
+			<navtitle>Single Sign-On</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature33">
+		<topicmeta>
+			<navtitle>Power-Up Administration</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature34">
+		<topicmeta>
+			<navtitle>Attachment Restrictions</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature35">
+		<topicmeta>
+			<navtitle>Organization Wide Permissions</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature36">
+		<topicmeta>
+			<navtitle>Organization Visible Boards</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature37">
+		<topicmeta>
+			<navtitle>Personalized Onboarding</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="feature" elem="othermeta" att="content" code="feature38">
+		<topicmeta>
+			<navtitle>Public Board Management</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="product" elem="prodname" code="product1">
+		<topicmeta>
+			<navtitle>Free</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="product" elem="prodname" code="product2">
+		<topicmeta>
+			<navtitle>Gold</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="product" elem="prodname" code="product3">
+		<topicmeta>
+			<navtitle>Business</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="product" elem="prodname" code="product4">
+		<topicmeta>
+			<navtitle>Enterprise</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="platform" elem="platform" code="platform1">
+		<topicmeta>
+			<navtitle>browser</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="platform" elem="platform" code="platform2">
+		<topicmeta>
+			<navtitle>Android</navtitle>
+		</topicmeta>
+	</valuedef>
+	<valuedef keys="platform" elem="platform" code="platform3">
+		<topicmeta>
+			<navtitle>iOS</navtitle>
+		</topicmeta>
+	</valuedef>
+</taxonomy>

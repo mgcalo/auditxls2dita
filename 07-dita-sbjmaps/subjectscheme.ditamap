@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd">
+<subjectScheme>
+	<subjectHead>
+		<subjectHeadMeta>
+			<navtitle>Taxonomy</navtitle>
+		</subjectHeadMeta>
+	</subjectHead>
+	<hasInstance>
+		<subjectdef keys="info_typeSbjKey">
+			<subjectdef keys="infotype1">
+				<topicmeta>
+					<navtitle>instructions overview</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype2">
+				<topicmeta>
+					<navtitle>instructions steps</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype3">
+				<topicmeta>
+					<navtitle>properties</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype4">
+				<topicmeta>
+					<navtitle>examples</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype5">
+				<topicmeta>
+					<navtitle>general info</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype6">
+				<topicmeta>
+					<navtitle>tips</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype7">
+				<topicmeta>
+					<navtitle>description</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype8">
+				<topicmeta>
+					<navtitle>description overview</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype9">
+				<topicmeta>
+					<navtitle>diagnosis and repair</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype10">
+				<topicmeta>
+					<navtitle>pub: article</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype11">
+				<topicmeta>
+					<navtitle>pub: developer documentation</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype12">
+				<topicmeta>
+					<navtitle>pub: quick guide</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype13">
+				<topicmeta>
+					<navtitle>pub: tutorial</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype14">
+				<topicmeta>
+					<navtitle>pub: user guide</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype15">
+				<topicmeta>
+					<navtitle>pub: video demo</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype16">
+				<topicmeta>
+					<navtitle>pub: webinar</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="infotype17">
+				<topicmeta>
+					<navtitle>security</navtitle>
+				</topicmeta>
+			</subjectdef>
+		</subjectdef>
+	</hasInstance>
+	<hasInstance>
+		<subjectdef keys="audience_levelSbjKey">
+			<subjectdef keys="audience_level1">
+				<topicmeta>
+					<navtitle>sysadmin</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="audience_level2">
+				<topicmeta>
+					<navtitle>user</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="audience_level3">
+				<topicmeta>
+					<navtitle>observer</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="audience_level4">
+				<topicmeta>
+					<navtitle>guest</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="audience_level5">
+				<topicmeta>
+					<navtitle>support</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="audience_level6">
+				<topicmeta>
+					<navtitle>developer</navtitle>
+				</topicmeta>
+			</subjectdef>
+		</subjectdef>
+	</hasInstance>
+	<hasInstance>
+		<subjectdef keys="componentSbjKey">
+			<subjectdef keys="component1">
+				<topicmeta>
+					<navtitle>teams</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component2">
+				<topicmeta>
+					<navtitle>user accounts</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component3">
+				<topicmeta>
+					<navtitle>user settings</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component4">
+				<topicmeta>
+					<navtitle>board collections</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component5">
+				<topicmeta>
+					<navtitle>team settings</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component6">
+				<topicmeta>
+					<navtitle>boards</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component7">
+				<topicmeta>
+					<navtitle>board templates</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component8">
+				<topicmeta>
+					<navtitle>board members</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component9">
+				<topicmeta>
+					<navtitle>team calendars</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component10">
+				<topicmeta>
+					<navtitle>board lists</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component11">
+				<topicmeta>
+					<navtitle>board settings</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component12">
+				<topicmeta>
+					<navtitle>cards</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component13">
+				<topicmeta>
+					<navtitle>card title</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component14">
+				<topicmeta>
+					<navtitle>card description</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component15">
+				<topicmeta>
+					<navtitle>card checklists</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component16">
+				<topicmeta>
+					<navtitle>card dates</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component17">
+				<topicmeta>
+					<navtitle>card labels</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component18">
+				<topicmeta>
+					<navtitle>card votes</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component19">
+				<topicmeta>
+					<navtitle>card attachments</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component20">
+				<topicmeta>
+					<navtitle>card comments</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component21">
+				<topicmeta>
+					<navtitle>card cover</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="component22">
+				<topicmeta>
+					<navtitle>member mentions</navtitle>
+				</topicmeta>
+			</subjectdef>
+		</subjectdef>
+	</hasInstance>
+	<hasInstance>
+		<subjectdef keys="operationSbjKey">
+			<subjectdef keys="job1">
+				<topicmeta>
+					<navtitle>add</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job2">
+				<topicmeta>
+					<navtitle>archive</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job3">
+				<topicmeta>
+					<navtitle>close</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job4">
+				<topicmeta>
+					<navtitle>complete</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job5">
+				<topicmeta>
+					<navtitle>copy</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job6">
+				<topicmeta>
+					<navtitle>create</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job7">
+				<topicmeta>
+					<navtitle>delete</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job8">
+				<topicmeta>
+					<navtitle>download</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job9">
+				<topicmeta>
+					<navtitle>export</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job10">
+				<topicmeta>
+					<navtitle>filter</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job11">
+				<topicmeta>
+					<navtitle>hide</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job12">
+				<topicmeta>
+					<navtitle>label</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job13">
+				<topicmeta>
+					<navtitle>mention</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job14">
+				<topicmeta>
+					<navtitle>move</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job15">
+				<topicmeta>
+					<navtitle>notify</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job16">
+				<topicmeta>
+					<navtitle>print</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job17">
+				<topicmeta>
+					<navtitle>search</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job18">
+				<topicmeta>
+					<navtitle>set_up</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job19">
+				<topicmeta>
+					<navtitle>share</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job20">
+				<topicmeta>
+					<navtitle>subscribe</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="job21">
+				<topicmeta>
+					<navtitle>vote</navtitle>
+				</topicmeta>
+			</subjectdef>
+		</subjectdef>
+	</hasInstance>
+	<hasInstance>
+		<subjectdef keys="featureSbjKey">
+			<subjectdef keys="feature1">
+				<topicmeta>
+					<navtitle>Personal Boards</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature2">
+				<topicmeta>
+					<navtitle>Cards</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature3">
+				<topicmeta>
+					<navtitle>Lists</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature4">
+				<topicmeta>
+					<navtitle>File Attachments</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature5">
+				<topicmeta>
+					<navtitle>Priority Support</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature6">
+				<topicmeta>
+					<navtitle>Observers</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature7">
+				<topicmeta>
+					<navtitle>Custom Backgrounds and Stickers</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature8">
+				<topicmeta>
+					<navtitle>Team Boards</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature9">
+				<topicmeta>
+					<navtitle>Board Collections</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature10">
+				<topicmeta>
+					<navtitle>Team Board Templates</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature11">
+				<topicmeta>
+					<navtitle>Power-Ups</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature12">
+				<topicmeta>
+					<navtitle>PwUp: Custom Fields</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature13">
+				<topicmeta>
+					<navtitle>PwUp: List Limits</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature14">
+				<topicmeta>
+					<navtitle>PwUp: Card Repeater</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature15">
+				<topicmeta>
+					<navtitle>PwUp: Calendar View</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature16">
+				<topicmeta>
+					<navtitle>PwUp: Map View</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature17">
+				<topicmeta>
+					<navtitle>PwUp: Voting</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature18">
+				<topicmeta>
+					<navtitle>PwUp: Other Apps</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature19">
+				<topicmeta>
+					<navtitle>Butler Workflow Automation</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature20">
+				<topicmeta>
+					<navtitle>Buttons and Rules</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature21">
+				<topicmeta>
+					<navtitle>Command Runs</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature22">
+				<topicmeta>
+					<navtitle>Scheduled Commands</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature23">
+				<topicmeta>
+					<navtitle>Command Administration</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature24">
+				<topicmeta>
+					<navtitle>Email Notifications</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature25">
+				<topicmeta>
+					<navtitle>HTTP Requests</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature26">
+				<topicmeta>
+					<navtitle>2-Factor Authentication</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature27">
+				<topicmeta>
+					<navtitle>Advanced Admin Permissions</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature28">
+				<topicmeta>
+					<navtitle>Domain-Restricted Invites</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature29">
+				<topicmeta>
+					<navtitle>Deactivate Members</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature30">
+				<topicmeta>
+					<navtitle>Google Apps Sign-on</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature31">
+				<topicmeta>
+					<navtitle>Simple Data Export</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature32">
+				<topicmeta>
+					<navtitle>Single Sign-On</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature33">
+				<topicmeta>
+					<navtitle>Power-Up Administration</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature34">
+				<topicmeta>
+					<navtitle>Attachment Restrictions</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature35">
+				<topicmeta>
+					<navtitle>Organization Wide Permissions</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature36">
+				<topicmeta>
+					<navtitle>Organization Visible Boards</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature37">
+				<topicmeta>
+					<navtitle>Personalized Onboarding</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="feature38">
+				<topicmeta>
+					<navtitle>Public Board Management</navtitle>
+				</topicmeta>
+			</subjectdef>
+		</subjectdef>
+	</hasInstance>
+	<hasInstance>
+		<subjectdef keys="productSbjKey">
+			<subjectdef keys="product1">
+				<topicmeta>
+					<navtitle>Free</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="product2">
+				<topicmeta>
+					<navtitle>Gold</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="product3">
+				<topicmeta>
+					<navtitle>Business</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="product4">
+				<topicmeta>
+					<navtitle>Enterprise</navtitle>
+				</topicmeta>
+			</subjectdef>
+		</subjectdef>
+	</hasInstance>
+	<hasInstance>
+		<subjectdef keys="platformSbjKey">
+			<subjectdef keys="platform1">
+				<topicmeta>
+					<navtitle>browser</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="platform2">
+				<topicmeta>
+					<navtitle>Android</navtitle>
+				</topicmeta>
+			</subjectdef>
+			<subjectdef keys="platform3">
+				<topicmeta>
+					<navtitle>iOS</navtitle>
+				</topicmeta>
+			</subjectdef>
+		</subjectdef>
+	</hasInstance>
+	<enumerationdef>
+		<elementdef name="category"/>
+		<attributedef name=""/>
+		<subjectdef keyref="info_typeSbjKey"/>
+	</enumerationdef>
+	<enumerationdef>
+		<elementdef name="audience"/>
+		<attributedef name="experiencelevel"/>
+		<subjectdef keyref="audience_levelSbjKey"/>
+	</enumerationdef>
+	<enumerationdef>
+		<elementdef name="component"/>
+		<attributedef name=""/>
+		<subjectdef keyref="componentSbjKey"/>
+	</enumerationdef>
+	<enumerationdef>
+		<elementdef name="audience"/>
+		<attributedef name="job"/>
+		<subjectdef keyref="operationSbjKey"/>
+	</enumerationdef>
+	<enumerationdef>
+		<elementdef name="othermeta"/>
+		<attributedef name="content"/>
+		<subjectdef keyref="featureSbjKey"/>
+	</enumerationdef>
+	<enumerationdef>
+		<elementdef name="prodname"/>
+		<attributedef name=""/>
+		<subjectdef keyref="productSbjKey"/>
+	</enumerationdef>
+	<enumerationdef>
+		<elementdef name="platform"/>
+		<attributedef name=""/>
+		<subjectdef keyref="platformSbjKey"/>
+	</enumerationdef>
+</subjectScheme>

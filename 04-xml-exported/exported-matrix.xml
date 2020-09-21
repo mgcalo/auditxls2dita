@@ -1,0 +1,2301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<topics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<topic sequence="100" type="map" level="0" legacy_url="https://help.trello.com/category/1047-trello-enterprise">
+		<title>Trello Enterprise</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<category>pub: user guide</category>
+				<prodinfo>
+					<prodname>Enterprise</prodname>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-001" type="concept" level="1" legacy_url="https://help.trello.com/article/1048-enterprise-user-guide">
+		<title>Enterprise User Guide</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<category>pub: user guide</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-002" type="reference" level="2" legacy_url="https://help.trello.com/article/1048-enterprise-user-guide">
+		<title>Features</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<category>properties</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-003" type="reference" level="2" legacy_url="https://trello.com/guide/enterprise">
+		<title>Enterprise Getting Started Guide</title>
+		<shortdesc>Targeted help to get up and running with Trello Enterprise.</shortdesc>
+		<prolog>
+			<metadata>
+				<job>set_up</job>
+				<category>pub: quick guide</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-004" type="task" level="3" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Jumpstart Your Team On Trello in 5 Easy Steps</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>pub: quick guide</category>
+				<prodinfo>
+					<component>team settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-005" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Decide Your Structure</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>team settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-006" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Upgrade Your Team</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>upgrade</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>team settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-007" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Configure SSO</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>instructions overview</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+				<feature>Single Sign-On</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-008" type="task" level="5" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Enabling SSO</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+				<feature>Single Sign-On</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-009" type="task" level="5" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Enforcing SSO</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+				<feature>Single Sign-On</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-010" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Establish Your Guidelines</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>team settings</component>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-011" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Manage Like A Champ</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>instructions overview</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-012" type="task" level="5" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Managing Public Boards Within an Enterprise</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>share</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+				<feature>Public Board Management</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-013" type="task" level="5" legacy_url="https://trello.com/guide/enterprise/sysadmin">
+		<title>Changing Public Board Visibility</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<job>set_up</job>
+				<category>instructions overview</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+				<feature>Organization Visible Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-014" type="task" level="3" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Get Started with Trello Enterprise in 5 Easy Steps</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>pub: quick guide</category>
+				<prodinfo>
+					<component>user settings</component>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-015" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Join Your Enterprise Team!</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>instructions overview</category>
+				<prodinfo>
+					<component>user settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-016" type="task" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Existing Trello Users</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>user settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-017" type="task" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>New Trello Users</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>user settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-018" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Learn the Lingo</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>instructions overview</category>
+				<prodinfo>
+					<component>user settings</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-019" type="reference" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Teams</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>teams</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-020" type="reference" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>boards</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-021" type="reference" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Board visibility</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+				<feature>Organization Visible Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-022" type="task" level="4" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Organize Your Projects</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>instructions overview</category>
+				<prodinfo>
+					<component>boards</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-023" type="reference" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Project Management Board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>boards</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-024" type="reference" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Team Organisation Central Board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>boards</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-025" type="reference" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Team Goal Setting Central Board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>boards</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-026" type="reference" level="5" legacy_url="https://trello.com/guide/enterprise/enduser">
+		<title>Team Meetings Board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>set_up</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>boards</component>
+				</prodinfo>
+				<feature>Team Boards</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-027" type="task" level="4" legacy_url="https://trello.com/power-ups">
+		<title>Power-Ups</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user developer</experiencelevel>
+				<job>develop</job>
+				<category>instructions overview</category>
+				<prodinfo>
+					<component>power ups</component>
+				</prodinfo>
+				<feature>Power-Ups</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-028" type="reference" level="5" legacy_url="https://developers.trello.com/">
+		<title>Trello developers</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<job>develop</job>
+				<category>properties</category>
+				<prodinfo>
+					<component>power ups</component>
+				</prodinfo>
+				<feature>Power-Ups</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-029" type="reference" level="4" legacy_url="https://developers.trello.com/">
+		<title>Keep in Touch</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>user</experiencelevel>
+				<category>general info</category>
+				<prodinfo/>
+				<feature>Priority Support</feature>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-030" type="concept" level="2" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Enterprise Admin Dashboard</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>description overview</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-031" type="task" level="3" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Open the Dashboard</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>instructions steps</category>
+				<prodinfo>
+					<component>board settings</component>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-032" type="concept" level="3" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Enterprise Teams</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>description</category>
+				<prodinfo>
+					<component>team settings</component>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-033" type="concept" level="3" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Enterprise Members</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>description</category>
+				<prodinfo>
+					<component>board members</component>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-034" type="task" level="4" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Filtering Members</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>instructions steps</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-035" type="task" level="4" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Enterprise Team Management</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>instructions steps</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-036" type="task" level="4" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Enterprise Admin Privileges and Deactivation</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>instructions steps</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-037" type="reference" level="4" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Other Member Types</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>properties</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-038" type="concept" level="3" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Team Settings</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>description</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-039" type="concept" level="3" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Public Boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>description</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-040" type="concept" level="3" legacy_url="https://help.trello.com/article/1078-enterprise-admin-dashboard">
+		<title>Power-Up Administration</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<category>description</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-041" type="concept" level="2" legacy_url="https://help.trello.com/article/1130-managed-enterprise-accounts">
+		<title>Managed Enterprise Accounts</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<category>description</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-042" type="troubleshooting" level="3" legacy_url="https://help.trello.com/article/1130-managed-enterprise-accounts">
+		<title>I no longer work for the company claiming my account. What should I do?</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<category>diagnosis and repair</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-043" type="task" level="2" legacy_url="https://help.trello.com/article/1108-upgrading-an-enterprise-team">
+		<title>Upgrading an Enterprise Team</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-044" type="task" level="3" legacy_url="https://help.trello.com/article/1108-upgrading-an-enterprise-team">
+		<title>Requesting an upgrade</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-045" type="task" level="3" legacy_url="https://help.trello.com/article/1108-upgrading-an-enterprise-team">
+		<title>Approving an upgrade</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-046" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Creating Template Boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-047" type="task" level="3" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Creating templates from boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-048" type="reference" level="3" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Template features</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-049" type="task" level="3" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Add a description to your template</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-050" type="task" level="3" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>How to use a template</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-051" type="task" level="3" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Restricted editing and collaboration</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-052" type="task" level="3" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Viewing and copying templates</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-053" type="task" level="3" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Templates on mobile</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin user</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-054" type="concept" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Member Management Dashboard Stats Box</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-055" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Domain Whitelisting</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-056" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Using Trello SCIM for Okta</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-057" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Filtering the Enterprise User Management Dashboard</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-058" type="concept" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Enterprise Wide Permissions</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-059" type="concept" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Organization Visible Boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-060" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Configuring SSO for your Enterprise</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-061" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Converting to SSO Login</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-062" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Requesting Additional Trello Seats</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-063" type="task" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Managing Public Boards Within an Enterprise</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-064" type="concept" level="2" legacy_url="https://help.trello.com/article/1187-creating-template-boards">
+		<title>Enterprise Power-Up Administration</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-065" type="concept" level="2" legacy_url="https://help.trello.com/article/1129-what-is-an-enterprise-admin">
+		<title>What is an Enterprise Admin?</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-066" type="concept" level="3" legacy_url="https://help.trello.com/article/1129-what-is-an-enterprise-admin">
+		<title>About the Enterprise Administrator Role</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-067" type="task" level="3" legacy_url="https://help.trello.com/article/1129-what-is-an-enterprise-admin">
+		<title>Assigning and revoking Enterprise Administrator permissions</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="100-068" type="task" level="3" legacy_url="https://help.trello.com/article/1129-what-is-an-enterprise-admin">
+		<title>Viewing Enterprise Administrators</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<experiencelevel>sysadmin</experiencelevel>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200" type="map" level="0" legacy_url="https://help.trello.com/article/1129-what-is-an-enterprise-admin">
+		<title>Trello Business Class</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<category>pub: user guide</category>
+				<prodinfo>
+					<prodname>Business</prodname>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-001" type="reference" level="1" legacy_url="https://help.trello.com/article/831-trello-business-class-vs-trello-gold">
+		<title>Trello Enterprise vs. Trello Business Class vs. Trello Gold</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-002" type="reference" level="2" legacy_url="https://help.trello.com/article/831-trello-business-class-vs-trello-gold">
+		<title>Chart comparison</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-003" type="reference" level="2" legacy_url="https://help.trello.com/article/831-trello-business-class-vs-trello-gold">
+		<title>Trello Gold</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-004" type="reference" level="2" legacy_url="https://help.trello.com/article/831-trello-business-class-vs-trello-gold">
+		<title>Trello Business Class</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-005" type="reference" level="2" legacy_url="https://help.trello.com/article/831-trello-business-class-vs-trello-gold">
+		<title>Trello Enterprise</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-006" type="reference" level="1" legacy_url="https://trello.com/business-class">
+		<title>Business Class User Guide</title>
+		<shortdesc>Trello Business Class is a shared space for teams to collaborate, communicate, and manage information securely.</shortdesc>
+		<prolog>
+			<metadata>
+				<category>pub: user guide</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-007" type="reference" level="2" legacy_url="https://trello.com/business-class">
+		<title>Business Class features</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-008" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Unlimited Team Boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-009" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Unlimited Power-Ups</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-010" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Collections</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-011" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Priority Support</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-012" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Google Apps integration</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-013" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Admin privileges</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-014" type="task" level="3" legacy_url="https://trello.com/business-class">
+		<title>Control team and board permissions</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-015" type="task" level="3" legacy_url="https://trello.com/business-class">
+		<title>Deactivate team members</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-016" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Observers on boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-017" type="task" level="3" legacy_url="https://trello.com/business-class">
+		<title>View team members activity, boards, and cards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-018" type="concept" level="3" legacy_url="https://trello.com/business-class">
+		<title>Saved search</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-019" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Trello Gold features for team members</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-020" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Bulk data export &amp; Export history</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-021" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>CSV exports for individual boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-022" type="reference" level="3" legacy_url="https://trello.com/business-class">
+		<title>Billing information &amp; Invoices</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-023" type="task" level="3" legacy_url="https://trello.com/business-class">
+		<title>Setting up your Business Class team</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-024" type="task" level="2" legacy_url="https://help.trello.com/article/732-adding-observers-to-boards">
+		<title>Adding observers to boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-025" type="task" level="3" legacy_url="https://help.trello.com/article/732-adding-observers-to-boards">
+		<title>Add a Trello member as an observer</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-026" type="task" level="3" legacy_url="https://help.trello.com/article/732-adding-observers-to-boards">
+		<title>Invite someone to Trello as an observer</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-027" type="task" level="3" legacy_url="https://help.trello.com/article/732-adding-observers-to-boards">
+		<title>Change a member's permissions to Observer</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-028" type="reference" level="2" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Power-Ups by Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-029" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Appear.in</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-030" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Bitbucket Cloud</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-031" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Board Meeting</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-032" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Box</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-033" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Calendar</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-034" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Card Aging</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-035" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Card Repeater</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-036" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Card Snooze</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-037" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Confluence Cloud</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-038" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Custom Fields</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-039" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Dropbox</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-040" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Evernote</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-041" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>GitHub</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-042" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Google Drive</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-043" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Google Hangouts</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-044" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Google Hangouts Chat</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-045" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Giphy</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-046" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Jira</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-047" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>MailChimp</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-048" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Maps</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-049" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>OneDrive</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-050" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Package Tracker</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-051" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Read Me</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-052" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Salesforce</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-053" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Slack</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-054" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>SurveyMonkey</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-055" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Twitter</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-056" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Voting</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-057" type="concept" level="3" legacy_url="https://help.trello.com/article/1003-power-ups-by-trello">
+		<title>Zendesk</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-058" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Creating collections for Business Class teams</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-059" type="task" level="3" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Creating a new collection</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-060" type="task" level="3" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Adding a board to a collection</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-061" type="task" level="3" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Editing or deleting a collection</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-062" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Setting up your Business Class team</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-063" type="task" level="3" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Set up your team</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-064" type="task" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Add People to Your Team</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-065" type="task" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Team Member's Permissions</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-066" type="task" level="3" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Start collaborating</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-067" type="task" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Create a board or associate existing ones</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-068" type="task" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Add members to your boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-069" type="task" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Allow team members to join</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-070" type="concept" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Unlimited Power-Ups</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-071" type="reference" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Gold Features for team members</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-072" type="concept" level="3" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Visibility and control</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-073" type="concept" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Member's activity</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-074" type="concept" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Advanced Permissions</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-075" type="concept" level="3" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Account</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-076" type="concept" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Your billing</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-077" type="concept" level="4" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Priority Support</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-078" type="concept" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>How Billing Works with Trello Business Class</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-079" type="concept" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Multi-Board Guests</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-080" type="concept" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Smart Billing</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-081" type="concept" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Invoices and receipts for Trello Business Class and Trello Gold</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-082" type="concept" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Get the most out of Business Class</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-083" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Cancel Trello Business Class</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-084" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Linking Google Apps if the Trello App is Already Installed</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-085" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Creating Custom Emoji in Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-086" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>How To Use Trello Business Class Like A Pro</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-087" type="concept" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>What is a deactivated user?</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-088" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Creating Template Boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-089" type="troubleshooting" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Can't find Business Class features</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="200-090" type="task" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Requesting Additional Trello Seats</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300" type="map" level="0" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo>
+					<prodname>Free</prodname>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-001" type="reference" level="1" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Free Features</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-002" type="concept" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Unlimited Personal Boards and Members</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-003" type="reference" level="2" legacy_url="https://help.trello.com/article/1004-creating-collections-for-business-class-teams">
+		<title>Mobile Apps</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-004" type="task" level="1" legacy_url="https://help.trello.com/category/694-category">
+		<title>Getting Started</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<category>pub: tutorial</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-005" type="task" level="2" legacy_url="https://help.trello.com/article/899-getting-started-video-demo">
+		<title>Getting started with Trello video demo</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<category>pub: video demo</category>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-006" type="task" level="3" legacy_url="https://help.trello.com/article/899-getting-started-video-demo">
+		<title>Transcript</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-007" type="concept" level="4" legacy_url="https://help.trello.com/article/899-getting-started-video-demo">
+		<title>Intro</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-008" type="task" level="4" legacy_url="https://help.trello.com/article/899-getting-started-video-demo">
+		<title>Creating a board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-009" type="task" level="4" legacy_url="https://help.trello.com/article/899-getting-started-video-demo">
+		<title>Adding cards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-010" type="task" level="4" legacy_url="https://help.trello.com/article/899-getting-started-video-demo">
+		<title>Collaborating with others</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-011" type="task" level="4" legacy_url="https://help.trello.com/article/899-getting-started-video-demo">
+		<title>Try Trello for free!</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-012" type="task" level="2" legacy_url="https://trello.com/guide">
+		<title>Getting started with Trello</title>
+		<shortdesc>Learn the basics of using Trello to make all your organizational dreams come true.</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-013" type="task" level="3" legacy_url="https://trello.com/guide">
+		<title>Trello 101</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-014" type="task" level="4" legacy_url="https://trello.com/guide">
+		<title>Getting Started With Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-015" type="task" level="4" legacy_url="https://trello.com/guide">
+		<title>Board Basics</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-016" type="task" level="3" legacy_url="https://trello.com/guide">
+		<title>Create A Board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-017" type="task" level="4" legacy_url="https://trello.com/guide">
+		<title>Add Lists</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-018" type="task" level="4" legacy_url="https://trello.com/guide">
+		<title>Add Cards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-019" type="task" level="4" legacy_url="https://trello.com/guide">
+		<title>Invite Members</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-020" type="concept" level="4" legacy_url="https://trello.com/guide">
+		<title>A Note On Board Privacy &amp; Visibility</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-021" type="reference" level="3" legacy_url="https://trello.com/guide">
+		<title>Feature Deep Dive</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-022" type="reference" level="4" legacy_url="https://trello.com/guide">
+		<title>The Card Back</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-023" type="reference" level="4" legacy_url="https://trello.com/guide">
+		<title>It's On The Menu</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-024" type="task" level="3" legacy_url="https://trello.com/guide">
+		<title>Power-Up Your Productivity</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-025" type="task" level="3" legacy_url="https://trello.com/guide">
+		<title>Expand Your Use Of Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-026" type="task" level="3" legacy_url="https://trello.com/guide">
+		<title>Collaboration</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-027" type="task" level="3" legacy_url="https://trello.com/guide">
+		<title>Create A Team</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-028" type="concept" level="3" legacy_url="https://trello.com/guide">
+		<title>Team Administration</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-029" type="reference" level="3" legacy_url="https://trello.com/guide">
+		<title>Pro Tips</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-030" type="reference" level="3" legacy_url="https://trello.com/guide">
+		<title>How To Leave Your Old Tools</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-031" type="task" level="2" legacy_url="https://help.trello.com/article/719-adding-your-first-board">
+		<title>Adding your first board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-032" type="task" level="3" legacy_url="https://help.trello.com/article/719-adding-your-first-board">
+		<title>Creating a New Board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-033" type="task" level="3" legacy_url="https://help.trello.com/article/719-adding-your-first-board">
+		<title>Cards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-034" type="task" level="3" legacy_url="https://help.trello.com/article/719-adding-your-first-board">
+		<title>Working with others</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-035" type="task" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>How to use Trello like a pro</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-036" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Double click to add list</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-037" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Keyboard shortcuts</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-038" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Drag and drop attachments</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-039" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Submit multiple cards and checklist items</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-040" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>@ mentions</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-041" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Drag board to scroll</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-042" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Re-order starred boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-043" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Reorder checklists and checklist items</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-044" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Create cards via email</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-045" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Show total cards per list</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-046" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Copy boards, lists, cards, and checklists</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-047" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Trello Resources board</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-048" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Bulk list actions</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-049" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Desktop notifications</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-050" type="task" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Rearrange and rename attachments</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-051" type="reference" level="3" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Further reading</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-052" type="task" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Exporting data from Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-053" type="task" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Importing Data Into Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-054" type="concept" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>What are teams?</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-055" type="task" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Configuring your firewall for Trello</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-056" type="concept" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>The home page</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-057" type="task" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Inviting people by using a shareable link</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-058" type="task" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Creating Template Boards</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-059" type="concept" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>An Introduction to Butler</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-060" type="task" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Using Trello with an Atlassian Account</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-061" type="reference" level="2" legacy_url="https://help.trello.com/article/734-how-to-use-trello-like-a-pro">
+		<title>Community Template Gallery</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-062" type="concept" level="1" legacy_url="https://trello.com/gold">
+		<title>Trello Gold</title>
+		<shortdesc>Get even more out of the Trello you love, with extra features and Power-Ups.</shortdesc>
+		<prolog>
+			<metadata>
+				<category>pub: user guide</category>
+				<prodinfo>
+					<prodname>Gold</prodname>
+				</prodinfo>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-063" type="reference" level="2" legacy_url="https://trello.com/gold">
+		<title>What's in the box</title>
+		<shortdesc>All your favorite things about Trello, plus extra fun and functionality. Great for individual Trello users.</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-064" type="concept" level="3" legacy_url="https://trello.com/gold">
+		<title>Stickers</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-065" type="concept" level="3" legacy_url="https://trello.com/gold">
+		<title>Board backgrounds</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-066" type="concept" level="3" legacy_url="https://trello.com/gold">
+		<title>Larger attachments</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-067" type="concept" level="3" legacy_url="https://trello.com/gold">
+		<title>Uploading custom emoji</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-068" type="concept" level="3" legacy_url="https://trello.com/gold">
+		<title>Saved search</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+	<topic sequence="300-069" type="concept" level="3" legacy_url="https://trello.com/gold">
+		<title>The Billing page</title>
+		<shortdesc>-</shortdesc>
+		<prolog>
+			<metadata>
+				<prodinfo/>
+			</metadata>
+		</prolog>
+	</topic>
+</topics>
